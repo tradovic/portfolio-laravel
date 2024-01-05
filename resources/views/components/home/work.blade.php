@@ -45,14 +45,13 @@
                         <span class="absolute left-8 top-1 hidden h-4 w-4 rounded-full border-2 border-grey-40 bg-white md:block"></span>
 
                         <div class="mt-1 flex">
-                            {{-- <i class="bx bxs-right-arrow hidden text-primary md:block"></i> --}}
                             <x-right-arrow-icon :wh="8"></x-right-arrow-icon>
                             <div class="md:-mt-1 md:pl-8">
                             <span class="block font-body font-bold text-grey-40">May 2009 to Present</span>
                             <span class="block pt-2 font-header text-xl font-bold uppercase text-primary">Senior Software Developer</span>
                             <div class="pt-2">
                                 <span class="block font-body text-gray-500 italic">XORStudio, Kragujevac, Serbia</span>
-                                <span class="block font-body text-black">Software development company with more than 14 years of experience in designing, developing, and supporting many web applications.</span>
+                                <span class="block text-black dark:text-gray-300">Software development company with more than 14 years of experience in designing, developing, and supporting many web applications.</span>
                             </div>
                             </div>
                         </div>
@@ -76,14 +75,13 @@
                             <span class="absolute left-8 top-1 hidden h-4 w-4 rounded-full border-2 border-grey-40 bg-white md:block"></span>
 
                             <div class="mt-1 flex">
-                                {{-- <i class="bx bxs-right-arrow hidden text-primary md:block"></i> --}}
                                 <x-right-arrow-icon :wh="6"></x-right-arrow-icon>
                                 <div class="md:-mt-1 md:pl-8">
                                     <span class="block font-body font-bold text-grey-40">May 2022 to Dec 2023</span>
                                     <span class="block pt-2 font-header text-xl font-bold uppercase text-primary">Senior Software Engineer</span>
                                     <div class="pt-2">
                                         <span class="block font-body text-gray-500 italic">DAAily platforms, Zurich, Switzerland</span>
-                                        <span class="block font-body text-black">DAAily platforms, uniting the world’s three leading architecture and design platforms — Designboom, Architonic and ArchDaily.</span>
+                                        <span class="block text-black dark:text-gray-300">DAAily platforms, uniting the world’s three leading architecture and design platforms — Designboom, Architonic and ArchDaily.</span>
                                     </div>
                                 </div>
                             </div>
@@ -106,7 +104,6 @@
                             <span class="absolute left-8 top-1 hidden h-4 w-4 rounded-full border-2 border-grey-40 bg-white md:block"></span>
 
                             <div class="mt-1 flex">
-                                {{-- <i class="bx bxs-right-arrow hidden text-primary md:block"></i> --}}
                                 <x-right-arrow-icon :wh="6"></x-right-arrow-icon>
                                 <div class="md:-mt-1 md:pl-8">
                                     <span class="block font-body font-bold text-grey-40">Nov 2017 to May 2022 </span>
@@ -114,7 +111,7 @@
                                     <span class="block pt-2 font-header text-xl font-bold uppercase text-primary">Senior Software Engineer</span>
                                     <div class="pt-2">
                                         <span class="block text-gray-500 italic">Architonic, Zurich, Switzerland</span>
-                                        <span class="block font-body text-black">Architonic is the leading research tool for the specification of premium design products, featuring 400'000 products by 12'000 designers</span>
+                                        <span class="block text-black dark:text-gray-300">Architonic is the leading research tool for the specification of premium design products, featuring 400'000 products by 12'000 designers</span>
                                     </div>
                                 </div>
                             </div>
@@ -138,14 +135,13 @@
                         <span class="absolute left-8 top-1 hidden h-4 w-4 rounded-full border-2 border-grey-40 bg-white md:block"></span>
 
                         <div class="mt-1 flex">
-                            {{-- <i class="bx bxs-right-arrow hidden text-primary md:block"></i> --}}
                             <x-right-arrow-icon :wh="6"></x-right-arrow-icon>
                             <div class="md:-mt-1 md:pl-8">
-                            <span class="block font-body font-bold text-grey-40">Jan 2011 to November 2017</span>
+                            <span class="bloc font-bold text-grey-40">Jan 2011 to November 2017</span>
                             <span class="block pt-2 font-header text-xl font-bold uppercase text-primary">Web Developer, Team Leader</span>
                             <div class="pt-2">
                                 <span class="block text-gray-500 italic">IMMOMIG SA, Switzerland</span>
-                                <span class="block font-body text-black">The online CRM real estate software for the administration of object and brokerage data. The solution for every real estate agent.</span>
+                                <span class="block text-black dark:text-gray-300">The online CRM real estate software for the administration of object and brokerage data. The solution for every real estate agent.</span>
                             </div>
                             </div>
                         </div>

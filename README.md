@@ -13,3 +13,6 @@ This is a Portfolio Landing page built with [Laravel](https://laravel.com/docs)
 5. Change database information in `.env`
 6. Run migrations by executing `php artisan migrate` , Then Run  `php artisan db:seed` to use faker settings in database,
 7. Start the project by running `php artisan serve`
+
+### Demo
+![MathMosaic](./img/portfolio-laravel.png)

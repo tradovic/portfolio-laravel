@@ -20,40 +20,34 @@ class Portfolio extends Component
     {
         $this->items = [
             [
-                'category' => ['Laravel', 'Tailwind.css', 'Vue3'],
-                'title' => 'Full Stack app with Laravel, Tailwindcss and Vue 3',
+                'category' => ['Laravel', 'Tailwind.css'],
+                'title' => 'Portfolio Landing page built with Laravel and  Tailwindcss',
                 'image' => url('/img/survey.png'),
-                'github' => 'https://github.com/thecodeholic/laravel-vue-survey'
+                'github' => 'https://github.com/tradovic/portfolio-laravel'
             ],
             [
                 'category' => ['Yii2', 'Bootstrap'],
                 'title' => 'E-commerce website with Yii2',
                 'image' => url('/img/yii2-ecommerce.jpg'),
-                'github' => 'https://github.com/thecodeholic/yii2-ecommerce-website'
+                'github' => 'https://github.com/tradovic'
             ],
             [
                 'category' => ['PHP', 'Laravel'],
                 'title' => 'REST API with Laravel 8 and Sanctum',
                 'image' => url('/img/laravel-rest-api.png'),
-                'github' => 'https://github.com/thecodeholic/laravel-image-manipulation-rest-api'
+                'github' => 'https://github.com/tradovic'
             ],
             [
                 'category' => ['PHP'],
                 'title' => 'PHP MVC Framework',
                 'image' => url('/img/php-mvc-framework.png'),
-                'github' => 'https://github.com/thecodeholic/php-mvc-framework'
-            ],
-            [
-                'category' => ['Yii2', 'Bootstrap'],
-                'title' => 'YouTube clone with Yii2',
-                'image' => url('/img/yii2-youtube-clone.png'),
-                'github' => 'https://github.com/thecodeholic/Yii2-Youtube-Clone'
+                'github' => 'https://github.com/tradovic'
             ],
             [
                 'category' => ['Yii2', 'VueJs'],
                 'title' => 'Yii2 + VueJs Notes application',
                 'image' => url('/img/yii2-vue-notes.png'),
-                'github' =>  'https://github.com/thecodeholic/vue.js-yii2-notes'
+                'github' =>  'https://github.com/tradovic'
             ],
         ];
 
