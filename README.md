@@ -15,4 +15,4 @@ This is a Portfolio Landing page built with [Laravel](https://laravel.com/docs)
 7. Start the project by running `php artisan serve`
 
 ### Demo
-![MathMosaic](./img/portfolio-laravel.png)
+![MathMosaic](./public/img/portfolio-laravel.png)
