@@ -20,7 +20,7 @@
                         My work experience
                     </h2>
                     <p class="text-base text-body-color">
-                        Here's what I did before freelancing.
+                        Here's what I did until now.
                     </p>
                     </div>
                 </div>
@@ -33,7 +33,8 @@
                     <div class="md:w-2/5">
                         <div class="flex justify-center md:justify-start">
                         <span class="shrink-0">
-                            <img src="/img/xorstudio_1200.svg" class="h-auto w-48" alt="company logo">
+                            <img src="/img/xorstudio_white_t.png" class="h-auto w-48 hidden dark:inline-block" alt="company logo">
+                            <img src="/img/xorstudio_1200.svg" class="h-auto w-48 inline-block dark:hidden" alt="company logo">
                         </span>
                         <div class="relative ml-3 hidden w-full md:block">
                             <span class="absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 transform bg-grey-70"></span>
